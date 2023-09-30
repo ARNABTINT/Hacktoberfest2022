@@ -7,16 +7,21 @@ public class BinarySearch {
         System.out.println(binarySearch(arr, target));
     }
 
-    static int binarySearch(int[] arr, int target) {
+    static int binarySearch(int[] arr, int target)
+    {
         int start = 0;
         int end = arr.length - 1;
-        while (start <= end) {
+        while (start <= end)
+        {
             int mid = end + ((start - end) / 2);
-            if (arr[mid] < target) {
+            if (arr[mid] < target)
+            {
                 start = mid + 1;
-            } else if (arr[mid] > target) {
+            } else if (arr[mid] > target)
+            {
                 end = mid - 1;
-            } else {
+            } else
+            {
                 return mid;
             }
         }
