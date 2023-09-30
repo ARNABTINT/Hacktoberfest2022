@@ -8,7 +8,7 @@ It is back again the time of the year to celebrate Hacktoberfest. This repositor
 <p>Every year in October, an open source event called Hacktoberfest inspires individuals all over the world to actively engage in and contribute to open source projects that are hosted on GitHub and GitLab. By taking part in this event, you may receive a free GitHub swag pack. You must submit 4 pull requests in order to receive that awesome swag pack.</p>
 
 
-## Follow these step -
+## Follow these step -:
 
 1. Complete the registartion over https://hacktoberfest.com/
 2. Rule are - https://hacktoberfest.com/participation/
